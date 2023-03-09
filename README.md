@@ -8,4 +8,4 @@
  I started by working on the motherboard. I apllied new thermal paste and put on the fan. I then put the ram inn. Now that the motherboard had all it needed i put it back in the case. and screwd it back together. Now the pc case had the motherboard i put inn the power supply. There are many ways you can put a pc together. You can plug inn all the cables inn first from the front of the pc like the connecter to turn it onn and off and also the hard disk. but i jist put my power supply stright away inn. I took all my cables from the power supply and placed it all on the other side before connecting so all the unwanted cables could stay there. i plugged all the front end connecters to the motherboard and then the power supply connectors. After it was all connected i turned it on before putting the side panals back on to make sure it works and it did.
  
  ## PC parts 
- The pc parts that were in this computer were CPU,Motherboard,Hard disk, power supply. It is a strigh forward pc no extra kick. 
+ The pc parts that were in this computer were CPU,Motherboard,Hard disk, power supply. It is a strigh forward pc no extra kick.
